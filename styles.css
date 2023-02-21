@@ -25,7 +25,17 @@
 .navigation a:hover {
     background-color: rgb(103, 250, 250);
 }
-
+.banner {
+    background-image:url("carrie-borden-CxS26XgJvpQ-unsplash.jpg");
+    min-height: 450px;
+    background-size: cover;
+    background-position: center;
+    display: grid;
+    place-items: center;
+}
+.banner h2 {
+    font-size: 300%;
+}
 body{
     margin: 0px;
 }
