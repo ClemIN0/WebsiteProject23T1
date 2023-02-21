@@ -1,3 +1,10 @@
 .logo{
     width: 80px;
 }
+.main-header{
+    background-color:aqua;
+}
+
+body{
+    margin: 0px;
+}
